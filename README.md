@@ -3,10 +3,16 @@
 ---
 
 ## Descripción
-En este repositorio se encuentran los trabajos dw DDYA grupo x.
+En este repositorio se encuentran los trabajos de DDYA grupo x.
 
 ---
 
-## Trabajos
+## Herramientas 
+Python, github
+
+---
+
 ## Autor
+Andres Ricardo Poveda
+
 
