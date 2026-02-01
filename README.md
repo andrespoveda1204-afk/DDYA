@@ -2,22 +2,22 @@
 
 ---
 
-## Descripción
+## Descripción 🖥️
 En este repositorio se encuentran los trabajos de DDYA grupo x.
 
 ---
 
-## Herramientas 
+## Herramientas 🧑‍💻
 Python, github
 
 ---
 
-## Autor
+## Autor ✏️
 Andres Ricardo Poveda
 
 ---
 
-## Profesor
+## Profesor 👨‍🏫
 Edward alexander francia guzman
 
 
