@@ -15,4 +15,10 @@ Python, github
 ## Autor
 Andres Ricardo Poveda
 
+---
+
+## Profesor
+Edward alexander francia guzman
+
+
 
