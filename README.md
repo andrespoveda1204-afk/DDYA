@@ -3,7 +3,7 @@
 ---
 
 ## Descripción 🖥️
-En este repositorio se encuentran los diferentes trabajos realizados a base de mucho analisis, programacion, diagramas, para comprender este area, analizarlo y buscar mejores opciones para un trabajo pesado y diseñar una estrategia con diferentes temas que se iran visualizando.
+En este repositorio se encuentrara el progreso de trabajos, anexos de la asignatura DDYA(diseño de datos y algoritmos) mediante las semanas que pasan, y la actualizacion del repositorio.
 
 ---
 
@@ -34,8 +34,14 @@ Escuela colombiana de ingnieros, universidad julio garavito.
 
 ## Autor ✏️
 - Nombre: Andres Ricardo Poveda Castiblanco.
-- Edad: 17 años.
-- Aspirante a ingeniero de sistemas.
+
+---
+
+## Sobre mi 🤔
+- 17 años
+- Estudiante de ingenieria de sistemas 👾
+- Futbolista ⚽️
+- Fanatico de la tecnología y programacion 🤓
 
 ---
 
