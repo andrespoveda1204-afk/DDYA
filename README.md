@@ -34,7 +34,8 @@ Escuela colombiana de ingnieros, universidad julio garavito.
 
 ## Autor ✏️
 Nombre: Andres Ricardo Poveda Castiblanco.
-• Edad: 17 años.
+---
+Edad: 17 años.
 Aspirante a ingeniero de sistemas.
 
 ---
