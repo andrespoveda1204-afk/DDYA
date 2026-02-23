@@ -17,7 +17,7 @@ Para esta semana, se estudio el paradigma divide y conquista bastante interesant
 
 ---
 
-## Semana 4 
+## Semana 4 🧑‍💻
 En esta semana, se introdujo el termino y metodo de programacion dinamica, para "convertir" algoritmos de complejidad alta, a complejidad muy baja, es decir que es muy efectivo, y es la madre de la recursividad, se modifico el problema de los estudiantes, se adapto a este metodo PD, y se presentaron varios ejercicios para moldear mas este tema.
 
 ---
@@ -27,7 +27,7 @@ Python, github, git, haskell.
 
 ---
 
-## Universidad
+## Universidad 🏫
 Escuela colombiana de ingnieros, universidad julio garavito.
 
 ---
