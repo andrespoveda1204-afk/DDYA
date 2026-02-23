@@ -1,4 +1,4 @@
-# Tabla de promedios según el tamaño del grupo (Esto es lo que variaría en tu enunciado)
+# Tabla de promedios según el tamaño del grupo 
 # tamaño de estudiantes: promedio cualquiera
 VALORES_PROMEDIO = {
     1: 3.0, 
@@ -35,4 +35,5 @@ def main ():
     n = int(input("Ingrese el número de estudiantes: "))
     resultado = optimizar_estudiantes(n)
     print(f"El mejor promedio posible para {n} estudiantes es: {resultado}")
+
 main ()
