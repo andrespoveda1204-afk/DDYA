@@ -35,6 +35,18 @@ En esta semana tuvimos el parcial, que consistio en una parte teorica y la otra 
 ## Semana 7
 En esta semana, dimos inicio a un nuevo tema, conocido como estructuras lineales, donde conocimos las pilas, colas y listas encadenadas, y en el laboratorio que corresponde a esta semana fue en base a estos conceptos e hicimos 3 ejercicios que se tomaran como arenas, que se ajuntan en esta rama, semana 7, con el respectivo video explicativo.
 
+---
+
+## Semana 8 
+En esta semana vimos la estructura jerarquica de los arboles binarios, vimos sus algoritmos y su funcionamientos, realizamos el laboratorio acerca de este tema en grupos, el cual se encuentra en el repositorio de uno de mis compañeros, fue un laboratorio comun y corriente pero en lo que nos esta enfocando ultimamente el profesor es en la construccion del codigo al problema por encima del diseño.
+
+---
+
+### Semana 9 
+En esta semana conocimos los grafos, estructura similar a los arboles pero obviamente con mecanismo diferente al recorrer los nodos conectados, con este tema vimos diferentes tipos de grafos, lista de adyacencia, matriz de adyacencia, algoritmos DFS, BFS, para esta semana se realizo un laboratorio y ejercicios de arenas, mas los videos explicativos, los cuales se adjuntan en la semana 9.
+
+--- 
+
 ## Herramientas 🔧
 Python, github, git, haskell.
 
