@@ -27,12 +27,12 @@ En esta semana tuvimos el preparcial, el cual consistio en un teorico y uno prac
 
 ---
 
-## Semana 6🧑‍💻
+## Semana 6 🧑‍💻
 En esta semana tuvimos el parcial, que consistio en una parte teorica y la otra practica, donde se evaluaron todos los temas del corte
 
 ---
 
-## Semana 7🧑‍💻
+## Semana 7 🧑‍💻
 En esta semana, dimos inicio a un nuevo tema, conocido como estructuras lineales, donde conocimos las pilas, colas y listas encadenadas, y en el laboratorio que corresponde a esta semana fue en base a estos conceptos e hicimos 3 ejercicios que se tomaran como arenas, que se ajuntan en esta rama, semana 7, con el respectivo video explicativo.
 
 ---
