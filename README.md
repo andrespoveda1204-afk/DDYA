@@ -45,6 +45,10 @@ En esta semana vimos la estructura jerarquica de los arboles binarios, vimos sus
 ### Semana 9 🧑‍💻
 En esta semana conocimos los grafos, estructura similar a los arboles pero obviamente con mecanismo diferente al recorrer los nodos conectados, con este tema vimos diferentes tipos de grafos, lista de adyacencia, matriz de adyacencia, algoritmos DFS, BFS, para esta semana se realizo un laboratorio y ejercicios de arenas, mas los videos explicativos, los cuales se adjuntan en la semana 9.
 
+---
+
+## Semana 10 👨‍💻
+
 --- 
 
 ## Herramientas 🔧
