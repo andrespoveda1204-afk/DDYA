@@ -53,7 +53,7 @@ Python, github, git, haskell.
 ---
 
 ## Universidad 🏫
-Escuela colombiana de ingnieros, universidad julio garavito.
+Escuela colombiana de ingenieros, universidad julio garavito.
 
 ---
 
