@@ -48,10 +48,14 @@ En esta semana conocimos los grafos, estructura similar a los arboles pero obvia
 ---
 
 ## Semana 10 👨‍💻
-- *preparcial teorico:*En esta semana se realizo el preparcial, el cual abarco todos los temas vistos en el corte, se hizo el parcial practico, perfecto para practicar y perfeccionar lo ya visto. 
-- Se realizo por ende tambien el parcial teorico el cual se baso en aplicar los telas vistos en diferentes problemas planteados, realizandose todos los puntos como un laboratorio comun y corriente.
+- *Preparcial teorico*:En esta semana se realizo el preparcial, el cual abarco todos los temas vistos en el corte, se hizo el parcial practico, perfecto para practicar y perfeccionar lo ya visto. 
+- *Preparcial practico*:Se realizo por ende tambien el parcial teorico el cual se baso en aplicar los telas vistos en diferentes problemas planteados, realizandose todos los puntos como un laboratorio comun y corriente.
 
 --- 
+## Semana 11 👨‍💻
+- *Parcial teorico*:Se hizo el parcial teorico, llevando los temas vistos en el corte, dividido por 3 secciones, estructuras lineales(pilas,colas y listas enlazadas), arboles y sus algoritmos, preorden,inorden,postorden y BFS, grafos, con sus recorridos(algoritmos de busqueda por anchura y profundidad) con lista y matriz de adyaciencia.
+- *Parcial practico*:Se hizo el parcial practico, el cual se solicitaba hacer un historial de navegacion, el cual tenia que tener estas opciones: registrar paginas, el usuario puede registrar paginas, navegar entre paginas, de una a otra, imprimiendo el camino mas corto de una pagina a la otra, el usuario se puede devolver una pagina, el sistema imprime la que se abandona y tambien habra un acceso al historial, todo esto implementando pilas, colas y nodos, característica de los arboles y grafos.
+---
 
 ## Herramientas 🔧
 Python, github, git, haskell.
