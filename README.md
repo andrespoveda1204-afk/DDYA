@@ -48,7 +48,7 @@ En esta semana conocimos los grafos, estructura similar a los arboles pero obvia
 ---
 
 ## Semana 10 👨‍💻
-- **preparcial teorico:**En esta semana se realizo el preparcial, el cual abarco todos los temas vistos en el corte, se hizo el parcial practico, perfecto para practicar y perfeccionar lo ya visto. 
+- *preparcial* teorico:En esta semana se realizo el preparcial, el cual abarco todos los temas vistos en el corte, se hizo el parcial practico, perfecto para practicar y perfeccionar lo ya visto. 
 - Se realizo por ende tambien el parcial teorico el cual se baso en aplicar los telas vistos en diferentes problemas planteados, realizandose todos los puntos como un laboratorio comun y corriente.
 
 --- 
