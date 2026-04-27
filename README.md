@@ -57,9 +57,13 @@ En esta semana conocimos los grafos, estructura similar a los arboles pero obvia
 - *Parcial practico*:Se hizo el parcial practico, el cual se solicitaba hacer un historial de navegacion, el cual tenia que tener estas opciones: registrar paginas, el usuario puede registrar paginas, navegar entre paginas, de una a otra, imprimiendo el camino mas corto de una pagina a la otra, el usuario se puede devolver una pagina, el sistema imprime la que se abandona y tambien habra un acceso al historial, todo esto implementando pilas, colas y nodos, característica de los arboles y grafos.
 ---
 
-## Herramientas 🔧
-Python, github, git, haskell.
-
+## Arsenal de herramientas que conozco y he trabajado🔧
+- Python
+- Github
+- Git
+- Haskell (basico)
+- HTML (intermedio)
+- C++ (basico)
 ---
 
 ## Universidad 🏫
